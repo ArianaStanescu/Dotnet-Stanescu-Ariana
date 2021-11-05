@@ -62,7 +62,7 @@ namespace p1
             int x = (int)5.99;
             double y = 5;
             Console.WriteLine(x);
-            */
+            
             //float x = 5.5f;
             double y = 5.5;
             decimal x = 10.5M;
@@ -70,8 +70,28 @@ namespace p1
             //double b = double.PositiveInfinity;
             double b = Math.Pow(9999, 99999999999);
             Console.WriteLine(double.IsInfinity(b));
+            
+            char letter = 'a';
+            int number = '\t';
+            Console.WriteLine("Hello\tAriana");
+            
+            char letter = (char)977;
+            Console.WriteLine(letter);
+            
+            string name = "Ariana";
+            //Console.WriteLine(name);
+            string name2 = name;
+            name += " Camelia";
+            Console.WriteLine(name);
+            Console.WriteLine(name2);
+            */
+            string name = "Ariana";
+            char[] characters = { 'h', 'e', 'l', 'l', 'o' };
+            string greeting = new string(characters);
+            Console.WriteLine(greeting);
 
-
+            string message = $"Hello my name is {name} and i like to say {greeting}";
+            Console.WriteLine(message);
         }
         static void Test(int[] x)
         {
