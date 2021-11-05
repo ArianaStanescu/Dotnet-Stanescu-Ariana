@@ -1,0 +1,16 @@
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\Stanescu-Ariana.exe
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\Stanescu-Ariana.deps.json
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\Stanescu-Ariana.runtimeconfig.json
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\Stanescu-Ariana.runtimeconfig.dev.json
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\Stanescu-Ariana.dll
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\ref\Stanescu-Ariana.dll
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\bin\Debug\net5.0\Stanescu-Ariana.pdb
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.csproj.AssemblyReference.cache
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.AssemblyInfoInputs.cache
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.AssemblyInfo.cs
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.csproj.CoreCompileInputs.cache
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.dll
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\ref\Stanescu-Ariana.dll
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.pdb
+C:\Users\Ariana\Desktop\vs 2019\programare2\Stanescu-Ariana\obj\Debug\net5.0\Stanescu-Ariana.genruntimeconfig.cache
